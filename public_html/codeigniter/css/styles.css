@@ -1,0 +1,45 @@
+body{
+    margin-bottom: 220px;
+}
+.page-header{
+    margin-top: 0;
+}
+
+.panel-body{
+    padding-top: 0;
+}
+
+.featuredImg{
+    margin-bottom: 15px;
+    width: 100%;
+}
+.list_item_container {
+    width:300px;
+    height: 60px;
+    padding: 5px 0;
+}
+.image {
+    width: 60px;
+    height: 60px;
+    margin-right: 10px;
+    float: left;
+}
+.description {
+    font-style: italic;
+    font-size: 0.8em;
+    color: gray;
+}
+
+html,body{
+   
+}
+
+#container{
+    
+    height:100%;
+    
+}
+mapholder{
+    
+}
+
